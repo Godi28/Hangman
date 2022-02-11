@@ -1,0 +1,49 @@
+.btn-secondary {
+  margin: 10px;
+  width: 55px;
+  height: 30px;
+  border-radius: 15%;
+}
+
+#inst {
+  margin-left: 22px;
+}
+
+#hgm {
+  margin-left: 570px;
+}
+
+#enjoy {
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 75px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 10px;
+  margin-right: 3px;
+  font-size: large;
+}
+
+.Hangman-word {
+  font-size: xx-large;
+  font: 3em sans-serif;
+}
+
+.help {
+  margin: 3px;
+}
+
+body {
+  background-color: rgb(148, 173, 6);
+  border: 3px solid whitesmoke;
+}
+
+.Hangman {
+  text-align: center;
+  margin: 2px;
+}

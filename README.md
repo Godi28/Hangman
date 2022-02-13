@@ -10,7 +10,7 @@ If installed correctly you should be able to the installed versions.
 ![npx -v](https://user-images.githubusercontent.com/88197915/153683171-606b2bd7-26fe-4d04-8acf-207841e6844a.JPG)
 
 
-Go to the directory where 'hang-man' is located on your local machine in command prompt or powershell and type npm-install.
+Go to the directory where 'hang-man' is located on your local machine in command prompt or powershell and type 'npm i react-scripts'.
 
 After it has loaded in the same directory in command prompt or powershell type npm start. Once it has loaded open a web browser and go to 'localhost:3000' if it has not opened automatically. 
 This is where you can play the game.
